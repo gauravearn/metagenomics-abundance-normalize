@@ -10,7 +10,7 @@ metagenomicsAbundanceNormalizer
                                                   "Porphyromonadaceae", "200")
 2536.0
 ```
-Gaurav Sablok \
+Gaurav \
 Academic Staff Member \
 Bioinformatics \
 Institute for Biochemistry and Biology \
